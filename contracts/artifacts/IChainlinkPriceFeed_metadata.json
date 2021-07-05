@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getThePrice",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/IChainlinkPriceFeed.sol": "IChainlinkPriceFeed"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/IChainlinkPriceFeed.sol": {
+			"keccak256": "0x7afcf9253a5c4a9c70178ec9e90b9f1c601efa72854cd40b55d86a161214f57e",
+			"urls": [
+				"bzz-raw://efebdc27ac35d798ce19aeac154996960f52fdb56b59e37a0d845e5513f253ac",
+				"dweb:/ipfs/QmTkaZAwVrhLgWeP8AuHQzUzskh6FqqBv7UMDjo313RDBJ"
+			]
+		}
+	},
+	"version": 1
+}

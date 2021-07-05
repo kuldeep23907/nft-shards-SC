@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.7.0+commit.9e61f92b"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/AaveV2.sol": "AaveV2"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/AaveV2.sol": {
+			"keccak256": "0x10f7de519e62b23bb8bf1fe05af51500dd812e0e5810d284664b72ee84ce1325",
+			"urls": [
+				"bzz-raw://f332b8c98f895a6f1685803159d1e017083c2535845383f60a45b7165f1ba8aa",
+				"dweb:/ipfs/QmRMuXhXfVcBDfaxxRCESCTHueHZ8BQD5k2vfa6jDaAukh"
+			]
+		}
+	},
+	"version": 1
+}
